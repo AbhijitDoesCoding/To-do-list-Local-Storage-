@@ -41,18 +41,6 @@ TaskFlow is a lightweight, frontend application built using core web technologie
 
     Styling: CSS3 for all the modern styling, including the dark theme, responsive layout, and the distinctive priority button styles (Low, Medium, High).
 
-⬇️ Installation and Setup
-
-Since this is a simple stack, the setup is very straightforward:
-
-    Clone the repository:
-    Bash
-
-git clone https://github.com/your-username/taskflow.git
-
-Navigate to the project directory:
-Bash
-
 cd taskflow
 
 Run the application: Open the index.html file directly in your web browser. There are no build steps or server dependencies required!
